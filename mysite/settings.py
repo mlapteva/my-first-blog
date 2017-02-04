@@ -25,7 +25,7 @@ SECRET_KEY = 'akxmqg8uj(2q!e2@jj&cpgc%etc9+bt!!2f49k5n6=77ut(5kw'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['mlapteva.pythonanywhere.com']
 
 
 # Application definition
